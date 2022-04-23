@@ -1,5 +1,5 @@
 def try_me():
-    print("Hello Pratima")
+    print("Hello from Pratima")
     
 if __name__ == '__main__':
     try_me()
